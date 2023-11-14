@@ -262,8 +262,7 @@ window.location.href = 'product.php';
                                         </div>
                                         
                                         <div class="col-lg-2" id="image_box_">
-                                            <a class="btn btn-md btn-primary position-relative mt-30" id="add_image"
-                                                onclick="add_more_images()">
+                                            <a class="btn btn-md btn-primary position-relative mt-30" id="add_image" onclick="add_more_images()">
                                                 Add Image
                                             </a>
                                         </div>
